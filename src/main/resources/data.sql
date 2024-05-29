@@ -1,0 +1,22 @@
+INSERT INTO products (model, make, price, quantity_in_stock, category, available, registration_date)
+VALUES
+    ('iPhone 12 Pro', 'Apple', 9999.0, 25, 0, TRUE, '2024-04-01'),
+    ('Galaxy S22 Ultra', 'Samsung', 8999.0, 20, 0, TRUE, '2024-04-02'),
+    ('Xperia 1 III', 'Sony', 7999.0, 15, 0, TRUE, '2024-04-03'),
+    ('Mate 50 Pro', 'Huawei', 8499.0, 18, 0, TRUE, '2024-04-04'),
+    ('Pixel 7 Pro', 'Google', 7999.0, 22, 0, TRUE, '2024-04-05'),
+    ('MacBook Pro 2023', 'Apple', 12999.0, 10, 1, TRUE, '2024-04-06'),
+    ('Surface Laptop 5', 'Microsoft', 10999.0, 12, 1, TRUE, '2024-04-07'),
+    ('ThinkPad X1 Carbon', 'Lenovo', 9999.0, 14, 1, TRUE, '2024-04-08'),
+    ('Swift 5', 'Acer', 7999.0, 0, 2, FALSE, '2024-04-09'),
+    ('ZenBook Pro', 'Asus', 8999.0, 11, 1, TRUE, '2024-04-10'),
+    ('Bravia XR A90J', 'Sony', 19999.0, 5, 2, TRUE, '2024-04-11'),
+    ('OLED C2', 'LG', 17999.0, 7, 2, TRUE, '2024-04-12'),
+    ('QLED QN900A', 'Samsung', 16999.0, 9, 2, TRUE, '2024-04-13'),
+    ('C1 Series', 'LG', 15999.0, 6, 2, TRUE, '2024-04-14'),
+    ('A80KJ', 'Sony', 14999.0, 0, 2, FALSE, '2024-04-15'),
+    ('iPhone 13 Pro', 'Apple', 10999.0, 0, 0, FALSE, '2024-04-16'),
+    ('Surface Pro 10', 'Microsoft', 11999.0, 18, 1, TRUE, '2024-04-17'),
+    ('Galaxy Book Pro', 'Samsung', 10999.0, 16, 1, TRUE, '2024-04-18'),
+    ('BRAVIA XR X95J', 'Sony', 21999.0, 4, 2, TRUE, '2024-04-19'),
+    ('Pixel 7', 'Google', 6999.0, 25, 0, TRUE, '2024-04-20');
